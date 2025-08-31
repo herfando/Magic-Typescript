@@ -28,19 +28,19 @@ c *= 2;   // c = c * 2
 c /= 4;   // c = c / 4
 
 // Ternary Operator
-let result: string = a > b ? "A is bigger" : "B is bigger"; // condition ? true : false
+let result: string = a > b ? "A is bigger" : "B is bigger"; // condition ? trueValue : falseValue
 
-// ===== Contoh penggunaan =====
+// ===== Example Usage =====
 console.log(`Sum: ${sum}, Diff: ${diff}, Prod: ${prod}, Div: ${div}, Mod: ${mod}`);
 console.log(`Equal? ${isEqual}, Not Equal? ${isNotEqual}`);
 console.log(`Logic AND: ${logicAnd}, OR: ${logicOr}, NOT: ${logicNot}`);
 console.log(`Ternary Result: ${result}`);
 
 /*
-Keterangan Ringkas:
-+ - * / %       → Arithmetic (matematika)
-=== !== > <     → Comparison
-&& || !         → Logical
-+= -= *= /=     → Assignment
-condition ? a:b → Ternary (if-else ringkas)
+Short Explanation:
++ - * / %        → Arithmetic operations
+=== !== > <      → Comparison operations
+&& || !          → Logical operations
++= -= *= /=      → Assignment operations
+condition ? a:b  → Ternary operator (if-else shorthand)
 */
