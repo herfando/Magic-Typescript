@@ -1,4 +1,4 @@
-# <img src="assets/magic-title.gif" width="50"/> <marquee behavior="scroll" direction="left">✨ Magic TypeScript ✨</marquee>
+# <img src="assets/magic-title.gif" width="50"/> <marquee behavior="scroll" direction="left">✨ Magic Typescript ✨</marquee>
 > _Learn TypeScript from Basics to Expert, all in one place!_ 🌟
 
 ![Magic GIF](assets/magic.gif)
